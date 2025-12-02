@@ -9,8 +9,8 @@
 [![Phone](https://img.shields.io/badge/Phone-01750921421-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801750921421)
 [![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-008000?style=for-the-badge&logo=location&logoColor=white)]()
 
-![](https://komarev.com/ghpvc/?username=coxismail&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/coxismail?style=social)
+![](https://komarev.com/ghpvc/?username=ismaildotnet&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/ismaildotnet?style=social)
 
 </div>
 
@@ -62,11 +62,11 @@ Passionate Full Stack Software Engineer with **5+ years of experience** in creat
 
 <div align="center">
   
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coxismail&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaildotnet&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coxismail&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildotnet&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=coxismail&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ismaildotnet&theme=radical&hide_border=true)
 
 </div>
 
@@ -181,10 +181,10 @@ Passionate Full Stack Software Engineer with **5+ years of experience** in creat
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coxismail)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaildotnet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coxismail)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.ismail.dev@gmail.com)
-[![Hire Me](https://img.shields.io/badge/Hire_Me-008000?style=for-the-badge&logo=hire-a-helper&logoColor=white)](mailto:connect.ismail.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismail.chatme@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-008000?style=for-the-badge&logo=hire-a-helper&logoColor=white)](mailto:ismail.chatme@gmail.com)
 
 </div>
 
@@ -196,7 +196,7 @@ Passionate Full Stack Software Engineer with **5+ years of experience** in creat
 ### **📝 Declaration**
 *I certify that all information provided is true and complete to the best of my knowledge.*
 
-<img src="https://raw.githubusercontent.com/coxismail/coxismail/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ismaildotnet/ismaildotnet/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ⭐ **Star my repositories if you find something useful!** ⭐
 
